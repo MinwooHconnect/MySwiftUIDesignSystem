@@ -1,0 +1,6 @@
+framework module MySwiftUIDesignSystem {
+  umbrella header "MySwiftUIDesignSystem-umbrella.h"
+
+  export *
+  module * { export * }
+}
